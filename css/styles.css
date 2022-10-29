@@ -367,9 +367,6 @@ padding-top: 32px;
     flex-basis: calc(100%/3-30px);
     border-bottom: 1px solid var(--border-card-color);
 }
-.portfolio-list .img{
-    flex-basis: calc((100%/3-30px));
-}
 .portfolio .description {
     margin: 20px 24px;
 }
